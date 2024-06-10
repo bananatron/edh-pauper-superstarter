@@ -40,10 +40,25 @@ This includes great common staples for all colors as well as many multi-color co
 
 | Card Name                         | Card Type       | Colors               |
 |-----------------------------------|-----------------|----------------------|
+| Abomination of Gudul              | Creature        | Black, Green, Blue |
+| Armament Corps                    | Creature        | White, Black, Green |
+| Bear's Companion                  | Creature        | Green, Blue, Red |
 | Cormela, Glamour Thief            | Creature        | Blue, Black, Red     |
-| Dimir Guildmage                   | Creature        | Blue, Black          |
+| Knotvine Mystic                   | Creature        | Red, Green, White    |
+| Giant Ambush Beetle               | Creature        | Black, Red, Green |
 | Lagrella, the Magpie              | Creature        | Green, White, Blue   |
+| Mardu Roughrider                  | Creature        | Red, White, Black  |
+| Messenger Falcons                 | Creature        | Green, White, Blue |
+| Mr. Orfeo, The Boulder            | Creature        | Black, Red, Green |
+| Queza, Augur of Agonies          | Creature         | White, Blue, Black    |
 | Rocco, Cabaretti Caterer          | Creature        | Red, Green, White    |
+| Scarland Thrinax                  | Creature        | Black, Red, Green |
+| Warden of the Eye                 | Creature        | Blue, Red, White |
+
+
+
+
+
 
 ### Red
 
