@@ -18,6 +18,8 @@ This includes great common staples for all colors as well as many multi-color co
 
 # Cards
 
+_* = Check local rules_
+
 ### Lands
 
 | Card Name                         | Card Type  | Colors |
@@ -29,11 +31,13 @@ This includes great common staples for all colors as well as many multi-color co
 | Command Tower                     | Land       | Colorless |
 | Dreamroot Cascade                 | Land       | Colorless |
 | Evolving Wilds                    | Land       | Colorless |
+| Haunted Fengraf                   | Land            | Colorless            |
 | Meandering River                  | Land       | Colorless |
 | Mystic Monastery                  | Land       | Colorless |
 | Opal Palace                       | Land       | Colorless |
 | Seaside Citadel                   | Land       | Colorless |
 | Vault of the Archangel            | Land       | Colorless |
+| Unknown Shores                    | Land       | Colorless |
 | Woodland Cemetery                 | Land       | Colorless |
 
 ### Commanders
@@ -54,7 +58,6 @@ This includes great common staples for all colors as well as many multi-color co
 | Rocco, Cabaretti Caterer          | Creature        | Red, Green, White    |
 | Scarland Thrinax                  | Creature        | Black, Red, Green |
 | Warden of the Eye                 | Creature        | Blue, Red, White |
-
 
 
 
@@ -242,33 +245,25 @@ This includes great common staples for all colors as well as many multi-color co
 | Card Name                         | Card Type       | Colors               |
 |-----------------------------------|-----------------|----------------------|
 | Arcane Signet                     | Artifact        | Colorless            |
-| Bonder's Ornament                 | Artifact        | Colorless            |
+| Bonder's Ornament*                 | Artifact        | Colorless            |
 | Commander's Sphere                | Artifact        | Colorless            |
 | Courier's Capsule                 | Artifact        | Colorless            |
-| Darksteel Citadel                 | Land            | Colorless            |
-| Evolving Wilds                    | Land            | Colorless            |
 | Everflowing Chalice               | Artifact        | Colorless            |
 | Expedition Map                    | Artifact        | Colorless            |
 | Foundry Inspector                 | Artifact Creature | Colorless          |
 | Guardian Idol                     | Artifact        | Colorless            |
-| Haunted Fengraf                   | Land            | Colorless            |
 | Ichor Wellspring                  | Artifact        | Colorless            |
 | Manalith                          | Artifact        | Colorless            |
 | Mind Stone                        | Artifact        | Colorless            |
 | Mycosynth Wellspring              | Artifact        | Colorless            |
 | Navigator's Compass               | Artifact        | Colorless            |
 | Prismatic Lens                    | Artifact        | Colorless            |
-| Prophetic Prism                   | Artifact        | Colorless            |
+| Prophetic Prism*                   | Artifact        | Colorless            |
 | Relic of Progenitus               | Artifact        | Colorless            |
 | Renegade Map                      | Artifact        | Colorless            |
-| Sigil of Distinction              | Artifact        | Colorless            |
-| Skullclamp                        | Artifact        | Colorless            |
-| Sol Ring                          | Artifact        | Colorless            |
 | Star Compass                      | Artifact        | Colorless            |
 | Traveler's Amulet                 | Artifact        | Colorless            |
-| Unknown Shores                    | Land            | Colorless            |
 | Wayfarer's Bauble                 | Artifact        | Colorless            |
 | Welding Jar                       | Artifact        | Colorless            |
-| Wild-Field Scarecrow              | Artifact Creature | Colorless          |
-| Wooded Bastion                    | Land            | Colorless            |
+
 
