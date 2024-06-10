@@ -19,6 +19,7 @@ This includes great common staples for all colors as well as many multi-color co
 # Cards
 
 _* = Check local rules_
+_$$ = > $1_
 
 ### Lands
 
@@ -27,18 +28,14 @@ _* = Check local rules_
 | Ash Barrens                       | Land       | Colorless |
 | Buried Ruin                       | Land       | Colorless |
 | Canopy Vista                      | Land       | Colorless |
-| Cascading Cataracts               | Land       | Colorless |
 | Command Tower                     | Land       | Colorless |
 | Dreamroot Cascade                 | Land       | Colorless |
 | Evolving Wilds                    | Land       | Colorless |
 | Haunted Fengraf                   | Land            | Colorless            |
 | Meandering River                  | Land       | Colorless |
-| Mystic Monastery                  | Land       | Colorless |
 | Opal Palace                       | Land       | Colorless |
 | Seaside Citadel                   | Land       | Colorless |
-| Vault of the Archangel            | Land       | Colorless |
 | Unknown Shores                    | Land       | Colorless |
-| Woodland Cemetery                 | Land       | Colorless |
 
 ### Commanders
 
@@ -73,24 +70,23 @@ _* = Check local rules_
 | Flame Rift                        | Sorcery         | Red                  |
 | Flame Slash                       | Sorcery         | Red                  |
 | Flames of the Raze-Boar           | Sorcery         | Red                  |
-| Flaring Pain                      | Instant         | Red                  |
-| Gitaxian Probe                    | Sorcery         | Red, Blue            |
-| Gut Shot                          | Instant         | Red                  |
+| Flaring Pain$$                      | Instant         | Red                  |
+| Gitaxian Probe$$                    | Sorcery         | Red, Blue            |
+| Gut Shot$$                          | Instant         | Red                  |
 | Keldon Marauders                  | Creature        | Red                  |
 | Kiln Fiend                        | Creature        | Red                  |
 | Lava Dart                         | Instant         | Red                  |
-| Lava Spike                        | Sorcery         | Red                  |
-| Lightning Bolt                    | Instant         | Red                  |
+| Lava Spike$$                        | Sorcery         | Red                  |
+| Lightning Bolt$$                    | Instant         | Red                  |
 | Lightning Strike                  | Instant         | Red                  |
-| Manamorphose                      | Instant         | Red, Green           |
-| Needle Drop                       | Instant         | Red                  |
+| Manamorphose$$                      | Instant         | Red, Green           |
+| Needle Drop$$                       | Instant         | Red                  |
 | Reckless Abandon                  | Sorcery         | Red                  |
 | Rift Bolt                         | Sorcery         | Red                  |
 | Rummaging Goblin                  | Creature        | Red                  |
 | Seismic Shudder                   | Instant         | Red                  |
-| Searing Blaze                     | Instant         | Red                  |
+| Searing Blaze$$                     | Instant         | Red                  |
 | Searing Spear                     | Instant         | Red                  |
-| Skred                             | Instant         | Red                  |
 | Thermo-Alchemist                  | Creature        | Red                  |
 | Tormenting Voice                  | Sorcery         | Red                  |
 | Twin Bolt                         | Instant         | Red                  |
@@ -104,9 +100,9 @@ _* = Check local rules_
 | Arcane Denial                     | Instant         | Blue                 |
 | Augur of Bolas                    | Creature        | Blue                 |
 | Blink of an Eye                   | Instant         | Blue                 |
-| Brainstorm                        | Instant         | Blue                 |
+| Brainstorm$$                        | Instant         | Blue                 |
 | Charmed Sleep                     | Enchantment     | Blue                 |
-| Counterspell                      | Instant         | Blue                 |
+| Counterspell$$                      | Instant         | Blue                 |
 | Curiosity                         | Enchantment     | Blue                 |
 | Deprive                           | Instant         | Blue                 |
 | Delver of Secrets                 | Creature        | Blue                 |
@@ -121,8 +117,8 @@ _* = Check local rules_
 | Muddle the Mixture                | Instant         | Blue                 |
 | Negate                            | Instant         | Blue                 |
 | Peregrine Drake                   | Creature        | Blue                 |
-| Ponder                            | Sorcery         | Blue                 |
-| Preordain                         | Sorcery         | Blue                 |
+| Ponder$$                            | Sorcery         | Blue                 |
+| Preordain$$                         | Sorcery         | Blue                 |
 | Repulse                           | Instant         | Blue                 |
 | Run Away Together                 | Instant         | Blue                 |
 | Scarscale Ritual                  | Sorcery         | Blue, Black          |
@@ -138,17 +134,17 @@ _* = Check local rules_
 |-----------------------------------|-----------------|----------------------|
 | Basking Rootwalla                 | Creature        | Green                |
 | Commune with the Gods             | Sorcery         | Green                |
-| Cultivate                         | Sorcery         | Green                |
+| Cultivate$$                         | Sorcery         | Green                |
 | Elephant Guide                    | Enchantment     | Green                |
 | Elvish Mystic                     | Creature        | Green                |
 | Eternal Witness                   | Creature        | Green                |
 | Explore                           | Sorcery         | Green                |
-| Farseek                           | Sorcery         | Green                |
+| Farseek$$                           | Sorcery         | Green                |
 | Giant Growth                      | Instant         | Green                |
 | Hunger of the Howlpack            | Instant         | Green                |
 | Lead the Stampede                 | Sorcery         | Green                |
 | Llanowar Elves                    | Creature        | Green                |
-| Manamorphose                      | Instant         | Red, Green           |
+| Manamorphose$$                      | Instant         | Red, Green           |
 | Nettle Sentinel                   | Creature        | Green                |
 | Nest Invader                      | Creature        | Green                |
 | Penumbra Spider                   | Creature        | Green                |
@@ -156,7 +152,7 @@ _* = Check local rules_
 | Primal Bellow                     | Instant         | Green                |
 | Rampant Growth                    | Sorcery         | Green                |
 | Regrowth                          | Sorcery         | Green                |
-| Rancor                            | Enchantment     | Green                |
+| Rancor$$                            | Enchantment     | Green                |
 | River Boa                         | Creature        | Green                |
 | Sakura-Tribe Elder                | Creature        | Green                |
 | Savage Swipe                      | Sorcery         | Green                |
@@ -178,24 +174,24 @@ _* = Check local rules_
 | Certain Death                     | Sorcery         | Black                |
 | Choking Sands                     | Sorcery         | Black                |
 | Crypt Rats                        | Creature        | Black                |
-| Dark Ritual                       | Instant         | Black                |
+| Dark Ritual$$                       | Instant         | Black                |
 | Dark Withering                    | Instant         | Black                |
 | Death Denied                      | Instant         | Black                |
 | Dead Weight                       | Enchantment     | Black                |
-| Defile                            | Instant         | Black                |
+| Defile$$                            | Instant         | Black                |
 | Dokuchi Shadow-Walker             | Creature        | Black                |
 | Doom Blade                        | Instant         | Black                |
 | Executioner's Capsule             | Artifact        | Black                |
-| Exhume                            | Sorcery         | Black                |
+| Exhume$$                            | Sorcery         | Black                |
 | Ghoulcaller's Chant               | Sorcery         | Black                |
 | Innocent Blood                    | Sorcery         | Black                |
 | Pharika's Spawn                   | Creature        | Black                |
 | Phyrexian Rager                   | Creature        | Black                |
 | Read the Bones                    | Sorcery         | Black                |
 | Scarscale Ritual                  | Sorcery         | Blue, Black          |
-| Sign in Blood                     | Sorcery         | Black                |
+| Sign in Blood$$                     | Sorcery         | Black                |
 | Tendrils of Corruption            | Instant         | Black                |
-| Tortured Existence                | Enchantment     | Black                |
+| Tortured Existence$$                | Enchantment     | Black                |
 | Tragic Slip                       | Instant         | Black                |
 | Undying Evil                      | Instant         | Black                |
 | Unearth                           | Sorcery         | Black                |
@@ -210,8 +206,8 @@ _* = Check local rules_
 | Battle Screech                    | Sorcery         | White                |
 | Benevolent Bodyguard              | Creature        | White                |
 | Dawnglare Invoker                 | Creature        | White                |
-| Ephemerate                        | Instant         | White                |
-| Guardian of the Guildpact         | Creature        | White                |
+| Ephemerate$$                        | Instant         | White                |
+| Guardian of the Guildpact$$         | Creature        | White                |
 | Journey to Nowhere                | Enchantment     | White                |
 | Kor Skyfisher                     | Creature        | White                |
 | Lone Missionary                   | Creature        | White                |
@@ -219,13 +215,13 @@ _* = Check local rules_
 | Palace Sentinels                  | Creature        | White                |
 | Pacifism                          | Enchantment     | White                |
 | Pious Blessing                    | Enchantment     | White                |
-| Prismatic Strands                 | Instant         | White                |
+| Prismatic Strands$$                 | Instant         | White                |
 | Raise the Alarm                   | Instant         | White                |
 | Ramosian Rally                    | Instant         | White                |
-| Sacred Cat                        | Creature        | White                |
+| Sacred Cat$$                        | Creature        | White                |
 | Seeker of the Way                 | Creature        | White                |
-| Soul Warden                       | Creature        | White                |
-| Swords to Plowshares              | Instant         | White                |
+| Soul Warden$$                       | Creature        | White                |
+| Swords to Plowshares$$              | Instant         | White                |
 | Sunlance                          | Sorcery         | White                |
 | Thraben Inspector                 | Creature        | White                |
 | Unmake                            | Instant         | White, Black         |
@@ -249,7 +245,7 @@ _* = Check local rules_
 | Commander's Sphere                | Artifact        | Colorless            |
 | Courier's Capsule                 | Artifact        | Colorless            |
 | Everflowing Chalice               | Artifact        | Colorless            |
-| Expedition Map                    | Artifact        | Colorless            |
+| Expedition Map$$                    | Artifact        | Colorless            |
 | Foundry Inspector                 | Artifact Creature | Colorless          |
 | Guardian Idol                     | Artifact        | Colorless            |
 | Ichor Wellspring                  | Artifact        | Colorless            |
@@ -259,7 +255,7 @@ _* = Check local rules_
 | Navigator's Compass               | Artifact        | Colorless            |
 | Prismatic Lens                    | Artifact        | Colorless            |
 | Prophetic Prism*                   | Artifact        | Colorless            |
-| Relic of Progenitus               | Artifact        | Colorless            |
+| Relic of Progenitus$$               | Artifact        | Colorless            |
 | Renegade Map                      | Artifact        | Colorless            |
 | Star Compass                      | Artifact        | Colorless            |
 | Traveler's Amulet                 | Artifact        | Colorless            |
