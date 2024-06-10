@@ -16,7 +16,7 @@ This includes great common staples for all colors as well as many multi-color co
 
 
 
-Here is the revised list with cards that have multiple colors showing up in both relevant categories, and all cards sorted in alphabetical order:
+# Cards
 
 ### Lands
 
