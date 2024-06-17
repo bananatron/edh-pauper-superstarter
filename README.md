@@ -7,8 +7,8 @@ Below is a cardlist that can quickly get you started with [Pauper Commander/EDH]
 This includes great common staples for all colors as well as many multi-color commander options so you can quickly (and inexpensively) throw together a variety pauper decks in a flash.
 
 # Rules Primer
-- **1** Uncommon Commander
-- **99** Common Cards
+- **1** Common or Uncommon Commander
+- **99** Common Singleton Cards
 - Cards count if they were EVER printed as common
 - All normal commander rules apply
 - [Full rules here](https://pdhhomebase.wixsite.com/pdhhomebase/rules)
