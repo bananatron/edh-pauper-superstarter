@@ -96,9 +96,6 @@ _($$) = > $1_
 
 | Card Name                         | Card Type       | Colors               |
 |-----------------------------------|-----------------|----------------------|
-| Aethersnipe                       | Creature        | Blue                 |
-| Arcane Denial                     | Instant         | Blue                 |
-| Augur of Bolas                    | Creature        | Blue                 |
 | Blink of an Eye                   | Instant         | Blue                 |
 | Brainstorm ($$)                        | Instant         | Blue                 |
 | Charmed Sleep                     | Enchantment     | Blue                 |
@@ -110,7 +107,6 @@ _($$) = > $1_
 | Exclude                           | Instant         | Blue                 |
 | Fact or Fiction                   | Instant         | Blue                 |
 | Frost Breath                      | Instant         | Blue                 |
-| Ghostly Flicker                   | Instant         | Blue                 |
 | Into the Roil                     | Instant         | Blue                 |
 | Keep Safe                         | Instant         | Blue                 |
 | Mana Leak                         | Instant         | Blue                 |
@@ -121,7 +117,6 @@ _($$) = > $1_
 | Preordain ($$)                         | Sorcery         | Blue                 |
 | Repulse                           | Instant         | Blue                 |
 | Run Away Together                 | Instant         | Blue                 |
-| Scarscale Ritual                  | Sorcery         | Blue, Black          |
 | Serum Visions                     | Sorcery         | Blue                 |
 | Treasure Cruise                   | Sorcery         | Blue                 |
 | Uncomfortable Chill               | Instant         | Blue                 |
